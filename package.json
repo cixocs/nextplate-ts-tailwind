@@ -12,16 +12,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@aspida/axios": "^1.9.1",
-    "@aspida/swr": "^1.9.1",
-    "axios": "^0.26.1",
-    "framer-motion": "^6.2.8",
-    "jotai": "^1.6.1",
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0",
-    "swr": "^1.2.2",
-    "zustand": "^3.7.1"
+    "react-dom": "18.0.0"
   },
   "devDependencies": {
     "@types/node": "17.0.23",
